@@ -23,3 +23,4 @@
 
 //   return <div>{renderColor}</div>;
 // }
+// // Exporting the component as the default export
